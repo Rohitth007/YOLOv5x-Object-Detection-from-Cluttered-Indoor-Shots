@@ -8,6 +8,7 @@ This implements:
 
 
 ### More details on the projects are detailed in the [Report](./Report.pdf) above.
+Some important information and images are shown below.
 
 
 ### Dependencies:
